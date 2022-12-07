@@ -8,7 +8,7 @@
 
 
 
-[:star::star::star:中文本版介绍说明](./README.md)
+[:star::star::star:中文本版介绍说明](./README_cn.md)
 
 
 
