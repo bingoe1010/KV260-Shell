@@ -50,10 +50,10 @@
 
 ## Instruction
 
-Video Link：[【KV260系列】KV260立式亚克力外壳制作](https://www.bilibili.com/video/BV1Vr4y1v76q/)
+Video Link：[【KV260系列】KV260立式亚克力外壳制作](https://www.bilibili.com/video/BV1s44y1S7Lj/?vd_source=3a0f8ef7e33855035b7b41686470a16f)
 
 ```tcl
-https://www.bilibili.com/video/BV1Vr4y1v76q/
+https://www.bilibili.com/video/BV1s44y1S7Lj/?vd_source=3a0f8ef7e33855035b7b41686470a16f
 ```
 
 
